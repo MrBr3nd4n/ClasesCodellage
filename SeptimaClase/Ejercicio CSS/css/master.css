@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://image.freepik.com/free-vector/abstract-dynamic-pattern-wallpaper-vector_53876-59131.jpg);
+  color: white;
+  margin: 20px;
+  padding: 50px;
+  font-family: arial;
+  border: 10px dotted white;
+}
+
+.texto1 {
+  background-color: black;
+  color: wheat;
+  border: 15px solid white;
+  padding: 30px;
+  margin: 70px;
+}
+
+#texto2 {
+  border-bottom: 20px double white;
+  border-top: 20px double white;
+  border-left: 10px dashed white;
+  border-right: 10px dashed white;
+  background-image: url(https://bit.ly/2mVuQim);
+  padding: 220px;
+  margin: 50px;
+  background-origin: padding-box;
+}
